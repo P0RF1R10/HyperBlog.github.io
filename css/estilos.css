@@ -31,3 +31,6 @@ body
 #container h1 {
     font-size: 20px;
 }
+#post {
+    margin-left: 1em;
+}
