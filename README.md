@@ -10,4 +10,4 @@ Ahora solo me falta empezar a repasar. **Aún no sé si repasar justo después d
 
 Justo ahora estoy logrando hacer 1 clase por día, pero aun me cuesta (A Diciembre 10 del 2023) tuve una ligera desganes & dos pinches clases de +16min que me hicieron sentir que soy nada. 
 
-Pero bueno tengo que lidiar con el sindrome del impostor. Y muchas más cosas por mejorar. 
+Pero bueno tengo que lidiar con el sindrome del impostor. Y muchas más cosas por mejorar.
