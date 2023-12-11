@@ -34,12 +34,13 @@ body
     margin: 0 auto;
 }
 #container h1 {
-    font-size: 20px;
+    font-size: 30px;
 }
 #post {
     padding: 1.5em;
     background: rgb(244, 244, 245);
 }
+
 #footer {
     background: rgb(49, 78, 128);
     color: white;
