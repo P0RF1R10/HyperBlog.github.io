@@ -6,6 +6,7 @@ En los cursos más avanzados ya hacía las cosas bien **Creo** porque aun no con
 
 > Durante este proceso de regresar me di cuenta que antes estudiaba re-mal y super-básico
 > bueno también no tuve tiempo que pensar, solo me avente a comprar la anualidad
+> Fue una super oferta, yo solo quería al inicio la academia de inglés
 
 Ahora solo me falta empezar a repasar. **Aún no sé si repasar justo después de aprender algo, repasar unos días después o después del curso** Pero primero empieza a repasar. 
 
